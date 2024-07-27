@@ -16,3 +16,8 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+nav .active {
+  color: #e9702f;
+  outline: 2px solid transparent;
+}
